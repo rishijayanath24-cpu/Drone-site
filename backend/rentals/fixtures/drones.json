@@ -1,0 +1,62 @@
+[
+  {
+    "model": "rentals.drone",
+    "pk": 1,
+    "fields": {
+      "name": "Phantom Pro",
+      "model": "DJI Phantom 4 Pro",
+      "image_url": "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?w=800&q=80",
+      "price_per_hour": "45.00",
+      "description": "Professional 4K drone with 1-inch CMOS sensor. Perfect for aerial photography and surveying.",
+      "is_available": true
+    }
+  },
+  {
+    "model": "rentals.drone",
+    "pk": 2,
+    "fields": {
+      "name": "Mavic Air Elite",
+      "model": "DJI Mavic Air 2S",
+      "image_url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?w=800&q=80",
+      "price_per_hour": "35.00",
+      "description": "Compact foldable drone with 5.4K video. Obstacle sensing in all directions for safe flights.",
+      "is_available": true
+    }
+  },
+  {
+    "model": "rentals.drone",
+    "pk": 3,
+    "fields": {
+      "name": "Inspire 3",
+      "model": "DJI Inspire 3",
+      "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&q=80",
+      "price_per_hour": "120.00",
+      "description": "Cinema-grade drone with 8K RAW capabilities. The choice of professional filmmakers worldwide.",
+      "is_available": true
+    }
+  },
+  {
+    "model": "rentals.drone",
+    "pk": 4,
+    "fields": {
+      "name": "Mini Scout",
+      "model": "DJI Mini 3 Pro",
+      "image_url": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80",
+      "price_per_hour": "20.00",
+      "description": "Lightweight under-250g drone. No license required in most countries. Great for beginners.",
+      "is_available": true
+    }
+  },
+  {
+    "model": "rentals.drone",
+    "pk": 5,
+    "fields": {
+      "name": "Agras T40",
+      "model": "DJI Agras T40",
+      "image_url": "https://images.unsplash.com/photo-1579829366248-204fe8413f31?w=800&q=80",
+      "price_per_hour": "200.00",
+      "description": "Heavy-duty agricultural drone with 40L tank capacity. Designed for precision crop spraying.",
+      "is_available": true
+    }
+  }
+]

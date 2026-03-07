@@ -1,0 +1,54 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_DB: drone_rental
+      POSTGRES_USER: drone_user
+      POSTGRES_PASSWORD: drone_pass
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  backend:
+    build: ./backend
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://drone_user:drone_pass@db:5432/drone_rental
+      DJANGO_SECRET_KEY: super-secret-key-change-in-production
+      DJANGO_DEBUG: "True"
+      ALLOWED_HOSTS: "localhost,127.0.0.1,backend"
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py loaddata drones || true &&
+             python manage.py loaddata drone_images || true &&
+             gunicorn drone_rental.wsgi:application --bind 0.0.0.0:8000"
+
+  frontend:
+    build: ./frontend
+    restart: always
+    environment:
+      API_URL: http://backend:8000
+      NEXT_PUBLIC_API_URL: http://localhost:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8090:8080"
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:

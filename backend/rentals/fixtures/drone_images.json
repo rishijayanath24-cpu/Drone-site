@@ -1,0 +1,152 @@
+[
+  {
+    "model": "rentals.droneimage",
+    "pk": 1,
+    "fields": {
+      "drone": 1,
+      "image_url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?w=800&q=80",
+      "caption": "Phantom Pro 4K in flight",
+      "order": 0
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 2,
+    "fields": {
+      "drone": 1,
+      "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&q=80",
+      "caption": "Aerial photography over landscape",
+      "order": 1
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 3,
+    "fields": {
+      "drone": 1,
+      "image_url": "https://images.unsplash.com/photo-1566438480900-0ff92c71e95b?w=800&q=80",
+      "caption": "Mountain range aerial shot",
+      "order": 2
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 4,
+    "fields": {
+      "drone": 2,
+      "image_url": "https://images.unsplash.com/photo-1548611895-6e70ce2b71f6?w=800&q=80",
+      "caption": "Mavic Air Elite compact design",
+      "order": 0
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 5,
+    "fields": {
+      "drone": 2,
+      "image_url": "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?w=800&q=80",
+      "caption": "Sunset aerial capture",
+      "order": 1
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 6,
+    "fields": {
+      "drone": 2,
+      "image_url": "https://images.unsplash.com/photo-1489824904134-891dd4c70caa?w=800&q=80",
+      "caption": "Above the clouds",
+      "order": 2
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 7,
+    "fields": {
+      "drone": 3,
+      "image_url": "https://images.unsplash.com/photo-1535016120720-40dcc3d5916a?w=800&q=80",
+      "caption": "Inspire 3 — cinema ready",
+      "order": 0
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 8,
+    "fields": {
+      "drone": 3,
+      "image_url": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800&q=80",
+      "caption": "Professional camera rig",
+      "order": 1
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 9,
+    "fields": {
+      "drone": 3,
+      "image_url": "https://images.unsplash.com/photo-1506947411487-aa23cf16b051?w=800&q=80",
+      "caption": "Cinematic aerial shot",
+      "order": 2
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 10,
+    "fields": {
+      "drone": 4,
+      "image_url": "https://images.unsplash.com/photo-1531884070720-875c7622d4c6?w=800&q=80",
+      "caption": "Mini Scout 2 hovering",
+      "order": 0
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 11,
+    "fields": {
+      "drone": 4,
+      "image_url": "https://images.unsplash.com/photo-1543783207-ec64e4d88a28?w=800&q=80",
+      "caption": "Compact and portable",
+      "order": 1
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 12,
+    "fields": {
+      "drone": 4,
+      "image_url": "https://images.unsplash.com/photo-1490004047268-c47b36e7e0d3?w=800&q=80",
+      "caption": "Flying over green fields",
+      "order": 2
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 13,
+    "fields": {
+      "drone": 5,
+      "image_url": "https://images.unsplash.com/photo-1591702073027-a78a6ec3069b?w=800&q=80",
+      "caption": "Agras T40 agricultural mission",
+      "order": 0
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 14,
+    "fields": {
+      "drone": 5,
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+      "caption": "Precision crop coverage",
+      "order": 1
+    }
+  },
+  {
+    "model": "rentals.droneimage",
+    "pk": 15,
+    "fields": {
+      "drone": 5,
+      "image_url": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80",
+      "caption": "Vast farmland coverage",
+      "order": 2
+    }
+  }
+]
