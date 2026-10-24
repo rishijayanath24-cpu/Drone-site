@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380" role="img" aria-labelledby="t d">
+<title id="t">Drone-site</title>
+<desc id="d">A drone takes off from a landing pad over a city skyline, hovers to film, and lands again. Beside it a rental ticket steps through browse, book, and fly and return, then shows the total cost.</desc>
+<style><![CDATA[.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}@media (prefers-reduced-motion:no-preference){@keyframes a0k{0%{opacity:0}20%{opacity:0}24%{opacity:0.6}92%{opacity:0.6}96%{opacity:0}100%{opacity:0}}.a0{animation:a0k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a1k{0%{opacity:0}52%{opacity:0}55%{opacity:1}69%{opacity:1}72%{opacity:0}100%{opacity:0}}.a1{animation:a1k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a2k{0%{transform:translate(0px,0px) rotate(0deg)}14%{transform:translate(0px,0px) rotate(0deg)}24%{transform:translate(0px,-120px) rotate(0deg)}27%{transform:translate(0px,-124px) rotate(0deg)}30%{transform:translate(0px,-120px) rotate(0deg)}36%{transform:translate(60px,-136px) rotate(7deg)}46%{transform:translate(270px,-168px) rotate(7deg)}50%{transform:translate(300px,-170px) rotate(0deg)}56%{transform:translate(300px,-174px) rotate(0deg)}62%{transform:translate(300px,-170px) rotate(0deg)}68%{transform:translate(300px,-174px) rotate(0deg)}72%{transform:translate(300px,-170px) rotate(0deg)}78%{transform:translate(230px,-150px) rotate(-7deg)}84%{transform:translate(10px,-112px) rotate(-5deg)}86%{transform:translate(0px,-110px) rotate(0deg)}95%{transform:translate(0px,0px) rotate(0deg)}100%{transform:translate(0px,0px) rotate(0deg)}}.a2{animation:a2k 12s ease-in-out infinite}@keyframes a3k{0%{opacity:0}2%{opacity:0}4%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}.a3{animation:a3k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a4k{0%{opacity:0}9%{opacity:0}11%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}.a4{animation:a4k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a5k{0%{opacity:0}17%{opacity:0}19%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}.a5{animation:a5k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a6k{0%{opacity:0}9%{opacity:0}10%{opacity:1}17%{opacity:1}18%{opacity:0}100%{opacity:0}}.a6{animation:a6k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a7k{0%{opacity:0}17%{opacity:0}18%{opacity:1}86%{opacity:1}87%{opacity:0}100%{opacity:0}}.a7{animation:a7k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a8k{0%{opacity:0}87%{opacity:0}89%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}.a8{animation:a8k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes a9k{0%{transform:scaleX(0)}17%{transform:scaleX(0)}86%{transform:scaleX(1)}94%{transform:scaleX(1);opacity:1}96%{opacity:0}100%{transform:scaleX(0);opacity:0}}.a9{animation:a9k 12s linear infinite;transform-box:fill-box;transform-origin:left center}@keyframes a10k{0%{opacity:0}87%{opacity:0}89%{opacity:1}92%{opacity:1}96%{opacity:0}100%{opacity:0}}.a10{animation:a10k 12s cubic-bezier(.22,.8,.24,1) infinite}@keyframes spin{0%,100%{transform:scaleX(1)}50%{transform:scaleX(.25)}}.spin{animation:spin .16s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes blink{0%,60%{opacity:1}61%,100%{opacity:.15}}.blink{animation:blink 1.1s steps(1) infinite}}]]></style>
+<rect x=".5" y=".5" width="959" height="379" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="32" y="46" class="s" font-size="20" font-weight="600" fill="#e6edf3">Drone-site</text>
+<text x="32" y="68" class="s" font-size="13" fill="#8b949e">Rent cinema-grade drones by the hour: browse the fleet, book, fly, return. Cost is computed on return.</text>
+<text x="928" y="46" text-anchor="end" class="m" font-size="11" fill="#8b949e">Next.js · Django REST · PostgreSQL · Docker</text>
+<clipPath id="scene"><rect x="32" y="90" width="572" height="262" rx="10"/></clipPath>
+<rect x="32" y="90" width="572" height="262" rx="10" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#scene)">
+<rect x="32" y="289" width="29" height="43" fill="#21262d"/>
+<rect x="45" y="295" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="37" y="304" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="45" y="313" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="53" y="322" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="64" y="293" width="37" height="39" fill="#21262d"/>
+<rect x="93" y="299" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="77" y="308" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="69" y="317" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="104" y="285" width="36" height="47" fill="#21262d"/>
+<rect x="109" y="291" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="133" y="291" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="125" y="318" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="143" y="314" width="21" height="18" fill="#21262d"/>
+<rect x="167" y="313" width="33" height="19" fill="#21262d"/>
+<rect x="180" y="319" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="203" y="320" width="43" height="12" fill="#21262d"/>
+<rect x="249" y="255" width="34" height="77" fill="#21262d"/>
+<rect x="254" y="261" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="270" y="297" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="262" y="324" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="286" y="294" width="24" height="38" fill="#21262d"/>
+<rect x="313" y="298" width="34" height="34" fill="#21262d"/>
+<rect x="318" y="304" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="318" y="313" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="350" y="279" width="31" height="53" fill="#21262d"/>
+<rect x="355" y="285" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="363" y="285" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="363" y="303" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="384" y="302" width="40" height="30" fill="#21262d"/>
+<rect x="427" y="301" width="31" height="31" fill="#21262d"/>
+<rect x="432" y="316" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="448" y="316" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="461" y="305" width="38" height="27" fill="#21262d"/>
+<rect x="466" y="311" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="490" y="320" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="502" y="249" width="34" height="83" fill="#21262d"/>
+<rect x="523" y="255" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="515" y="300" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="539" y="280" width="39" height="52" fill="#21262d"/>
+<rect x="581" y="280" width="21" height="52" fill="#21262d"/>
+<rect x="586" y="286" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="586" y="313" width="3" height="3" fill="#d29922" opacity=".45"/>
+<rect x="32" y="332" width="572" height="20" fill="#0d1117"/>
+<line x1="32" y1="332" x2="604" y2="332" stroke="#484f58"/>
+<ellipse cx="160" cy="338" rx="48" ry="8" fill="#161b22" stroke="#484f58"/>
+<text x="160" y="342" class="m" font-size="10" fill="#8b949e" text-anchor="middle" font-weight="600">H</text>
+<path class="a0" d="M160 300V200Q240 150 460 150" fill="none" stroke="#58a6ff" stroke-dasharray="3 6" opacity=".6"/>
+<path class="a1" d="M460 160L414 332H506Z" fill="#58a6ff" opacity="0" fill-opacity=".1"/>
+<g transform="translate(160 320)"><g class="a2"><path d="M-12 3L-17 12M12 3L17 12" stroke="#e6edf3" stroke-width="2" stroke-linecap="round"/><line x1="-38" y1="-6" x2="38" y2="-6" stroke="#e6edf3" stroke-width="3" stroke-linecap="round"/><rect x="-42" y="-12" width="8" height="6" rx="1.5" fill="#e6edf3"/><rect x="34" y="-12" width="8" height="6" rx="1.5" fill="#e6edf3"/><ellipse class="spin" cx="-38" cy="-14" rx="20" ry="2.2" fill="#8b949e"/><ellipse class="spin" cx="38" cy="-14" rx="20" ry="2.2" fill="#8b949e"/><rect x="-18" y="-11" width="36" height="14" rx="5" fill="#e6edf3"/><circle cx="0" cy="7" r="4.5" fill="#0d1117" stroke="#e6edf3" stroke-width="1.5"/><circle cx="0" cy="7" r="1.8" fill="#58a6ff"/><circle class="blink" cx="13" cy="-4" r="1.6" fill="#f85149"/></g></g>
+</g>
+<rect x="632" y="90" width="296" height="262" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="652" y="122" class="s" font-size="16" fill="#e6edf3" text-anchor="start" font-weight="600">Inspire 3</text>
+<text x="652" y="140" class="m" font-size="10" fill="#8b949e" text-anchor="start">DJI Inspire 3</text>
+<text x="908" y="122" class="m" font-size="12" fill="#e6edf3" text-anchor="end">$120.00 / hr</text>
+<text x="908" y="140" class="m" font-size="10" fill="#8b949e" text-anchor="end">example rental</text>
+<line x1="652" y1="156" x2="908" y2="156" stroke="#30363d"/>
+<circle cx="664" cy="182" r="10" fill="none" stroke="#484f58"/>
+<text x="664" y="186" class="m" font-size="9" fill="#8b949e" text-anchor="middle">01</text>
+<g class="a3"><circle cx="664" cy="182" r="10" fill="#58a6ff"/><text x="664" y="186" class="m" font-size="9" fill="#0d1117" text-anchor="middle" font-weight="600">01</text></g>
+<text x="684" y="186" class="s" font-size="13" fill="#e6edf3" text-anchor="start">Browse the fleet</text>
+<circle cx="664" cy="216" r="10" fill="none" stroke="#484f58"/>
+<text x="664" y="220" class="m" font-size="9" fill="#8b949e" text-anchor="middle">02</text>
+<g class="a4"><circle cx="664" cy="216" r="10" fill="#58a6ff"/><text x="664" y="220" class="m" font-size="9" fill="#0d1117" text-anchor="middle" font-weight="600">02</text></g>
+<text x="684" y="220" class="s" font-size="13" fill="#e6edf3" text-anchor="start">Book instantly</text>
+<circle cx="664" cy="250" r="10" fill="none" stroke="#484f58"/>
+<text x="664" y="254" class="m" font-size="9" fill="#8b949e" text-anchor="middle">03</text>
+<g class="a5"><circle cx="664" cy="250" r="10" fill="#58a6ff"/><text x="664" y="254" class="m" font-size="9" fill="#0d1117" text-anchor="middle" font-weight="600">03</text></g>
+<text x="684" y="254" class="s" font-size="13" fill="#e6edf3" text-anchor="start">Fly &amp; return</text>
+<line x1="652" y1="276" x2="908" y2="276" stroke="#30363d"/>
+<text x="652" y="300" class="m" font-size="10" fill="#8b949e" text-anchor="start">status</text>
+<g class="a6" opacity="0"><text x="908" y="300" class="m" font-size="11" fill="#8b949e" text-anchor="end" font-weight="600">booked</text></g>
+<g class="a7" opacity="0"><text x="908" y="300" class="m" font-size="11" fill="#58a6ff" text-anchor="end" font-weight="600">in flight</text></g>
+<g class="a8"><text x="908" y="300" class="m" font-size="11" fill="#3fb950" text-anchor="end" font-weight="600">returned</text></g>
+<rect x="652" y="310" width="256" height="6" rx="3" fill="#21262d"/>
+<rect class="a9" x="652" y="310" width="256" height="6" rx="3" fill="#58a6ff"/>
+<g class="a10"><text x="652" y="340" class="m" font-size="11" fill="#8b949e" text-anchor="start">1.5 h × $120.00 / hr</text><text x="908" y="341" class="s" font-size="15" fill="#3fb950" text-anchor="end" font-weight="600">$180.00</text></g>
+</svg>
